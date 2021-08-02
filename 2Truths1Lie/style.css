@@ -1,0 +1,36 @@
+h3 {
+    text-align: center;
+    color:blue;
+}
+
+h1 {
+    text-align: center;
+    color: lightgreen;
+}
+
+p { color:purple;
+    text-align: center;
+}
+
+#body-wrapper {
+    
+    
+    border: 5px solid purple;
+
+    background-color: pink;
+    border-radius: 25px;
+}
+
+.statements { border-radius: 25px;
+    background-color: lightskyblue;
+    text-align: center;
+    padding: 1em;
+    width: 25%;   
+    margin: 5px;
+     
+
+}
+    
+.flex-display{
+    display:flex;
+}
