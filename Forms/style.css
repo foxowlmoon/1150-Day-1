@@ -1,0 +1,32 @@
+H1 {
+    color: yellow;
+
+
+}
+
+
+h2 {
+    text-align: left;
+    color: greenyellow;
+}
+.cars {
+    color: red;
+    text-align: center;
+
+
+
+}
+
+select {
+    width: 150px; height: auto;
+}
+
+img { border-radius: 33%; height: 100px; width: 100px; float: left;
+
+
+}
+
+button{ 
+
+
+}
